@@ -2,7 +2,7 @@
 
 This is a personal portfolio project built using **Vite**, **React**, **Tailwind CSS**, and **DaisyUI** for styling. The project showcases my skills, projects, and experience, using **Gemini AI** to generate images.
 
-**Live Url :** https://rakesh-rkz.github.io/portfolio/
+**Live Url :** [Rakesh-portfolio](https://rakesh-rkz.github.io/portfolio/)
 
 ## Tech Stack
 
