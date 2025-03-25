@@ -6,5 +6,5 @@ export const education = [{
     title: "B.Sc - Computer Technology"
 }, {
     year: "2018-2021",
-    title: "M.Sc - Computer Technology"
+    title: "MCA - Computer Applications"
 }]
