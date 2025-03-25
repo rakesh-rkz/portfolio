@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroSection = () => {
 
-    const ResumeUrl = "/resume.pdf"
+    const ResumeUrl = "https://rakesh-rkz.github.io/portfolio/resume.pdf"
 
     return (
         <section id="hero">
